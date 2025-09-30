@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shop_project\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-28 18:10+0600\n"
+"PO-Revision-Date: 2025-09-28 18:20+0600\n"
+"Last-Translator: Bolotbekov <your@email.com>\n"
+"Language-Team: English <en@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Email address"
+msgstr "Email address"
+
+msgid "Покупатель"
+msgstr "Customer"
+
+msgid "Менеджер"
+msgstr "Manager"
+
+msgid "Роль"
+msgstr "Role"
+
+msgid "Название категории"
+msgstr "Category name"
+
+msgid "Слаг"
+msgstr "Slug"
+
+msgid "Категория"
+msgstr "Category"
+
+msgid "Категории"
+msgstr "Categories"
+
+msgid "Название товара"
+msgstr "Product name"
+
+msgid "Описание"
+msgstr "Description"
+
+msgid "Цена (USD)"
+msgstr "Price (USD)"
+
+msgid "Изображение"
+msgstr "Image"
+
+msgid "Дата создания"
+msgstr "Created at"
+
+msgid "Остаток на складе"
+msgstr "Stock quantity"
+
+msgid "Промокод"
+msgstr "Promo code"
+
+msgid "Скидка (%)"
+msgstr "Discount (%)"
+
+msgid "Скидка (фикс.)"
+msgstr "Fixed discount"
+
+msgid "Активен"
+msgstr "Active"
+
+msgid "Действителен до"
+msgstr "Valid until"
+
+msgid "Пользователь"
+msgstr "User"
+
+msgid "Корзина"
+msgstr "Cart"
+
+msgid "Товар"
+msgstr "Product"
+
+msgid "Количество"
+msgstr "Quantity"
+
+msgid "Итоговая сумма"
+msgstr "Total amount"
+
+msgid "Валюта"
+msgstr "Currency"
+
+msgid "Оплачен"
+msgstr "Paid"
+
+msgid "Адрес"
+msgstr "Address"
+
+msgid "Новый"
+msgstr "New"
+
+msgid "Отменён"
+msgstr "Cancelled"
+
+msgid "Доставлен"
+msgstr "Delivered"
+
+msgid "Статус"
+msgstr "Status"
+
+msgid "Заказ"
+msgstr "Order"
+
+msgid "Цена"
+msgstr "Price"
+
+msgid "Оценка"
+msgstr "Rating"
+
+msgid "Текст отзыва"
+msgstr "Review text"
+
+msgid "Одобрен"
+msgstr "Approved"
+
+msgid "Статус модерации"
+msgstr "Moderation status"
+
+msgid "Ожидает"
+msgstr "Pending"
+
+msgid "Отклонён"
+msgstr "Rejected"
+
+msgid "Отзыв"
+msgstr "Review"
+
+msgid "Отзывы"
+msgstr "Reviews"
+
+msgid "Улица"
+msgstr "Street"
+
+msgid "Город"
+msgstr "City"
+
+msgid "Почтовый индекс"
+msgstr "Postal code"
+
+msgid "Страна"
+msgstr "Country"
+
+msgid "По умолчанию"
+msgstr "Default"
+
+msgid "Электронная почта"
+msgstr "Email"
+
+msgid "Имя пользователя"
+msgstr "Username"
+
+msgid "Цена в выбранной валюте"
+msgstr "Price in selected currency"
+
+msgid "Сумма"
+msgstr "Subtotal"
+
+msgid "Недостаточно товара на складе"
+msgstr "Not enough stock available"
+
+msgid "Товар добавлен в корзину"
+msgstr "Product added to cart"
+
+msgid "Промокод применён"
+msgstr "Promo code applied"
+
+msgid "Оплачено"
+msgstr "Paid"
+
+msgid "Заполните все поля"
+msgstr "Please fill in all fields"
+
+msgid "Имя пользователя уже занято"
+msgstr "Username already exists"
+
+msgid "Регистрация прошла успешно"
+msgstr "Registration successful"
+
+msgid "Оплата прошла успешно"
+msgstr "Payment successful"

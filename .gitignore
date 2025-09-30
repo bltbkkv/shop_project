@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+
+# Env
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Migrations (опционально)
+# */migrations/*.py
+".env" 
+".env" 
+".env" 
+".env" 

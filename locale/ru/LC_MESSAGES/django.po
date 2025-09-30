@@ -1,0 +1,194 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-28 18:26+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+msgid "Email address"
+msgstr "Email address"
+
+msgid "Покупатель"
+msgstr "Покупатель"
+
+msgid "Менеджер"
+msgstr "Менеджер"
+
+msgid "Роль"
+msgstr "Роль"
+
+msgid "Название категории"
+msgstr "Название категории"
+
+msgid "Слаг"
+msgstr "Слаг"
+
+msgid "Категория"
+msgstr "Категория"
+
+msgid "Категории"
+msgstr "Категории"
+
+msgid "Название товара"
+msgstr "Название товара"
+
+msgid "Описание"
+msgstr "Описание"
+
+msgid "Цена (USD)"
+msgstr "Цена (USD)"
+
+msgid "Изображение"
+msgstr "Изображение"
+
+msgid "Дата создания"
+msgstr "Дата создания"
+
+msgid "Остаток на складе"
+msgstr "Остаток на складе"
+
+msgid "Промокод"
+msgstr "Промокод"
+
+msgid "Скидка (%)"
+msgstr "Скидка (%)"
+
+msgid "Скидка (фикс.)"
+msgstr "Скидка (фикс.)"
+
+msgid "Активен"
+msgstr "Активен"
+
+msgid "Действителен до"
+msgstr "Действителен до"
+
+msgid "Пользователь"
+msgstr "Пользователь"
+
+msgid "Корзина"
+msgstr "Корзина"
+
+msgid "Товар"
+msgstr "Товар"
+
+msgid "Количество"
+msgstr "Количество"
+
+msgid "Итоговая сумма"
+msgstr "Итоговая сумма"
+
+msgid "Валюта"
+msgstr "Валюта"
+
+msgid "Оплачен"
+msgstr "Оплачен"
+
+msgid "Адрес"
+msgstr "Адрес"
+
+msgid "Новый"
+msgstr "Новый"
+
+msgid "Отменён"
+msgstr "Отменён"
+
+msgid "Доставлен"
+msgstr "Доставлен"
+
+msgid "Статус"
+msgstr "Статус"
+
+msgid "Заказ"
+msgstr "Заказ"
+
+msgid "Цена"
+msgstr "Цена"
+
+msgid "Оценка"
+msgstr "Оценка"
+
+msgid "Текст отзыва"
+msgstr "Текст отзыва"
+
+msgid "Одобрен"
+msgstr "Одобрен"
+
+msgid "Статус модерации"
+msgstr "Статус модерации"
+
+msgid "Ожидает"
+msgstr "Ожидает"
+
+msgid "Отклонён"
+msgstr "Отклонён"
+
+msgid "Отзыв"
+msgstr "Отзыв"
+
+msgid "Отзывы"
+msgstr "Отзывы"
+
+msgid "Улица"
+msgstr "Улица"
+
+msgid "Город"
+msgstr "Город"
+
+msgid "Почтовый индекс"
+msgstr "Почтовый индекс"
+
+msgid "Страна"
+msgstr "Страна"
+
+msgid "По умолчанию"
+msgstr "По умолчанию"
+
+msgid "Электронная почта"
+msgstr "Электронная почта"
+
+msgid "Имя пользователя"
+msgstr "Имя пользователя"
+
+msgid "Цена в выбранной валюте"
+msgstr "Цена в выбранной валюте"
+
+msgid "Сумма"
+msgstr "Сумма"
+
+msgid "Недостаточно товара на складе"
+msgstr "Недостаточно товара на складе"
+
+msgid "Товар добавлен в корзину"
+msgstr "Товар добавлен в корзину"
+
+msgid "Промокод применён"
+msgstr "Промокод применён"
+
+msgid "Оплачено"
+msgstr "Оплачено"
+
+msgid "Заполните все поля"
+msgstr "Заполните все поля"
+
+msgid "Имя пользователя уже занято"
+msgstr "Имя пользователя уже занято"
+
+msgid "Регистрация прошла успешно"
+msgstr "Регистрация прошла успешно"
+
+msgid "Оплата прошла успешно"
+msgstr "Оплата прошла успешно"
